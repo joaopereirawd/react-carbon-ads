@@ -1,3 +1,3 @@
 # react-carbon-ads
 
-add your `carbon ads` embed code with jsx
+add your `carbon` embed code with jsx
