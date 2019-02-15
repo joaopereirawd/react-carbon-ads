@@ -15,3 +15,4 @@ add your `carbon` embed code with jsx
 ```js
 import CarbonAds from "react-carbon-ads"
 ```
+documentation in progress
