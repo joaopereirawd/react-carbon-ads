@@ -1,6 +1,6 @@
 # react-carbon-ads
 
-add your `carbon ads` embed code with JSX
+add your [Carbon Ads](https://www.carbonads.net/) embed code with JSX
 
 ## Instalation
 
