@@ -1,6 +1,6 @@
 # react-carbon-ads
 
-add your `carbon ad` embed code with jsx
+add your `carbon ads` embed code with JSX
 
 ## Instalation
 
@@ -10,9 +10,24 @@ add your `carbon ad` embed code with jsx
   yarn add react-carbon-ads
   
 ````
-## Import
+## Usage
 
 ```js
+import React from 'react';
 import CarbonAds from "react-carbon-ads"
+
+<CarbonAds 
+    carbonUrl="CARBON_URL"
+/>
+
 ```
-documentation in progress
+## Props
+
+- **Required props:**
+-`carbonUrl`
+
+- **Optional props:**
+-`customClass`
+
+
+
