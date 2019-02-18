@@ -23,11 +23,11 @@ import CarbonAds from "react-carbon-ads"
 ```
 ## Props
 
-- **Required props:**
--`carbonUrl`
+- **Required props:**<br/>
+`carbonUrl`
 
-- **Optional props:**
--`customClass`
+- **Optional props:**<br/>
+`customClass`
 
 
 
